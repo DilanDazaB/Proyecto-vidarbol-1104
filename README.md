@@ -1,6 +1,7 @@
 # 🚀 Nombre del Proyecto
 
-<img width="1396" height="570" alt="image" src="https://github.com/user-attachments/assets/8d72411d-eabe-4318-8178-2a771a294515" />
+<img width="1396" height="570" alt="image" src=<img width="147" height="144" alt="image" src="https://github.com/user-attachments/assets/281ccf33-a4b6-40c4-b1ac-0e0fdb866a41" />
+/>
 
 
 ![Versión](https://img.shields.io/badge/versión-1.0.5-blue)  
@@ -23,8 +24,7 @@ Explica brevemente el propósito general:
 
 ## 🧪 Prototipo
 
-🔗 **[Ver prototipo funcional](https://tuprototipo.netlify.app)**  
-📁 **[Ver prototipo en Figma](https://www.figma.com/file/...)**
+📁 **[Ver prototipo en Figma](https://www.roblox.com/es/games/18729070076/Vid-rbol)**
 
 ### 📸 Capturas
 
