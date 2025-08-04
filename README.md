@@ -33,8 +33,7 @@ Explica brevemente el propósito general:
  vista de usuario
  |  <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/22622beb-117a-4d69-826b-880e785122e9" />
  panel de Admin
- | ![Uploading image.png…]() 
- |
+ | <img width="993" height="534" alt="image" src="https://github.com/user-attachments/assets/f66a9a95-c21f-43b7-a860-348cc7a5b30d" /> |
 
 ---
 
