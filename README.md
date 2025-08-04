@@ -1,6 +1,6 @@
 # 🚀 Nombre del Proyecto
 
-<img width="1396" height="570" alt="image" src=<img width="147" height="144" alt="image" src="https://github.com/user-attachments/assets/281ccf33-a4b6-40c4-b1ac-0e0fdb866a41" />
+<img width="1396" height="570" alt="image" src= "<img width="147" height="144" alt="image" src="https://github.com/user-attachments/assets/281ccf33-a4b6-40c4-b1ac-0e0fdb866a41" />
 />
 
 
