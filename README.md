@@ -29,9 +29,10 @@ Explica brevemente el propósito general:
 
 | Pantalla de Inicio | Vista de Usuario | Panel Admin |
 |--------------------|------------------|-------------|
-|(<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/e4e7f97d-8057-4bf0-a350-762c6aeee7bb" />
+|<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/e4e7f97d-8057-4bf0-a350-762c6aeee7bb" />
  />
-) | ![Usuario](./assets/usuario.png) | ![Admin](./assets/admin.png) |
+ |  <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/22622beb-117a-4d69-826b-880e785122e9" />
+ | ![Admin](./assets/admin.png) |
 
 ---
 
