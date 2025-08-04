@@ -3,7 +3,7 @@
 <img width="147" height="144" alt="image" src="https://github.com/user-attachments/assets/2d4b4687-c15d-4aab-9888-e7ebb3b9fb45" />
 
 
-![Versión](https://img.shields.io/badge/versión-1.0.5-blue)  
+![Versión](https://img.shields.io/badge/versión-1.0-blue)  
 ![Estado](https://img.shields.io/badge/estado-en%20prototipo-yellow)  
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green)
 
@@ -15,9 +15,9 @@
 
 Explica brevemente el propósito general:
 
-- Qué problema busca resolver
-- A qué público está dirigido
-- Qué lo hace diferente o especial
+- Que todos aprendamos a plantar un ábol
+- Enseñar a las personas lo divertido que es cuidar el ambiente
+- Comcientizar a las personas sobre lo importantes que son los árboles
 
 ---
 
