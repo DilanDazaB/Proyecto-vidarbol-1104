@@ -27,11 +27,12 @@ Explica brevemente el propósito general:
 
 ### 📸 Capturas
 
-| Pantalla de Inicio | Vista de Usuario | Panel Admin |
-|--------------------|------------------|-------------|
+| Pantalla de Inicio |
+|--------------------|
 |<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/e4e7f97d-8057-4bf0-a350-762c6aeee7bb" />
- />
+ vista de usuario
  |  <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/22622beb-117a-4d69-826b-880e785122e9" />
+ panel de Admin
  | ![Admin](./assets/admin.png) |
 
 ---
