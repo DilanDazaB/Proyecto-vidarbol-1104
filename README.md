@@ -5,9 +5,8 @@
 
 ![Versión](https://img.shields.io/badge/versión-1.0-blue)  
 ![Estado](https://img.shields.io/badge/estado-en%20prototipo-yellow)  
-![Licencia](https://img.shields.io/badge/licencia-MIT-green)
 
-> Breve descripción del proyecto: ¿qué hace, para quién está hecho y por qué es importante?
+> Un juego increible lleno de enseñanzas sobre los árboles y la naturaleza, ideal para aquellos estudiantes de grado 6° y 7° siendo una  base importante para su aprendizaje sobre el medio ambiente
 
 ---
 
@@ -23,34 +22,37 @@ Explica brevemente el propósito general:
 
 ## 🧪 Prototipo
 
-📁 **[Ver prototipo en Figma](https://www.roblox.com/es/games/18729070076/Vid-rbol)**
+📁 **[Ver prototipo en Roblox](https://www.roblox.com/es/games/18729070076/Vid-rbol)** 
+
+<img width="373" height="374" alt="Captura de pantalla 2025-08-25 071701" src="https://github.com/user-attachments/assets/0871e6c3-09e3-4198-8ac2-c2d06e48255c" />
 
 ### 📸 Capturas
 
 | Pantalla de Inicio  |
 |--------------------|
 |<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/e4e7f97d-8057-4bf0-a350-762c6aeee7bb" />
-| Vista de usuario |
-|--------------------|
+                                                               Vista de usuario   
 
- |  <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/22622beb-117a-4d69-826b-880e785122e9" />
-| Pnael de admin|
-|--------------------|
+| <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/22622beb-117a-4d69-826b-880e785122e9" /> |
+                                                               Panel de admin   
 
- | <img width="993" height="534" alt="image" src="https://github.com/user-attachments/assets/f66a9a95-c21f-43b7-a860-348cc7a5b30d" /> |
+| <img width="993" height="534" alt="image" src="https://github.com/user-attachments/assets/f66a9a95-c21f-43b7-a860-348cc7a5b30d" /> |
 
 ---
 
-## 🧰 Tecnologías Utilizadas
+## 🧰 Vídeo de presentación
 
 
 
 ## ⚙️ Instalación
+Deberas instalar Roblox  entrando a la página principal de la plataforma
+
+<img width="332" height="262" alt="Captura de pantalla 2025-08-25 072205" src="https://github.com/user-attachments/assets/00682041-193b-4b45-946e-a57c147d36ec" />
 
 ### Requisitos previos
 
-- Node.js ≥ 18  
-- Git instalado  
-- Navegador moderno
+- Sistema Operativo: Windows 10/11 (solo 64 bits) o macOS 10.13 (High Sierra) o superior. 
+- Procesador: 1.6 GHz o superior (se recomienda un procesador de 2005 en adelante). 
+- Memoria RAM: Al menos 1 GB. 
+- Espacio de Almacenamiento: Mínimo 20 MB en el disco. 
 
-### Pasos
