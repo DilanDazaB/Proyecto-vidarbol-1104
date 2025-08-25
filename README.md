@@ -12,9 +12,9 @@
 
 ## 🎯 Objetivo del Proyecto
 
-Explica brevemente el propósito general:
+Nuestros propositos generales son:
 
-- Que todos aprendamos a plantar un ábol
+- Que todos aprendamos a plantar un árbol
 - Enseñar a las personas lo divertido que es cuidar el ambiente
 - Comcientizar a las personas sobre lo importantes que son los árboles
 
@@ -34,13 +34,17 @@ Explica brevemente el propósito general:
                                                                Vista de usuario   
 
 | <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/22622beb-117a-4d69-826b-880e785122e9" /> |
-                                                               Panel de admin   
+                                                                Vista de ADMIN  
 
 | <img width="993" height="534" alt="image" src="https://github.com/user-attachments/assets/f66a9a95-c21f-43b7-a860-348cc7a5b30d" /> |
 
 ---
 
 ## 🧰 Vídeo de presentación
+
+
+
+https://github.com/user-attachments/assets/840c5bb2-7447-40c6-bdee-1aebfa85b0b0
 
 
 
