@@ -1,7 +1,7 @@
 # 🚀 Nombre del Proyecto
 
 <img width="147" height="144" alt="image" src="https://github.com/user-attachments/assets/2d4b4687-c15d-4aab-9888-e7ebb3b9fb45" />
-<img width="741" height="659" alt="image" src="https://github.com/user-attachments/assets/174b87f8-d4d9-4804-8ab0-e4b7fcfabe04" />
+<img width="741" height="144" alt="image" src="https://github.com/user-attachments/assets/174b87f8-d4d9-4804-8ab0-e4b7fcfabe04" />
 
 
 ![Versión](https://img.shields.io/badge/versión-1.0-blue)  
