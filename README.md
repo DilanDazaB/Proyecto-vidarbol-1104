@@ -48,4 +48,30 @@ https://github.com/user-attachments/assets/840c5bb2-7447-40c6-bdee-1aebfa85b0b0
 
 ## ⚙️ Requisitos previos
 
-Antes de instalar o jugar VidÁrbol, asegúrese de cumplir con los
+Antes de instalar o jugar VidÁrbol, asegúrese de cumplir con los siguientes requisitos:
+
+- **Sistema Operativo:** Windows 10/11 (64 bits) o macOS 10.13 (High Sierra) o superior.  
+- **Procesador:** 1.6 GHz o superior (se recomienda un procesador posterior a 2005).  
+- **Memoria RAM:** Mínimo 1 GB.  
+- **Espacio de almacenamiento:** Al menos 20 MB libres en disco.  
+
+---
+
+## 💾 Instalación
+
+1. Ingrese a la página principal de Roblox:  
+   👉 [https://www.roblox.com/es/Login](https://www.roblox.com/es/Login)
+
+2. Cree una cuenta nueva. Al hacerlo, aparecerá el siguiente formulario:  
+
+   <img width="436" height="489" alt="image" src="https://github.com/user-attachments/assets/f29ddcd3-46c7-4755-b36e-15836edfc76b" />
+
+3. Una vez creada la cuenta, descargue e instale Roblox si aún no lo tiene instalado.  
+
+4. Para jugar **VidÁrbol**, puede ingresar escaneando el código QR disponible o buscándolo directamente en Roblox como **“VidÁrbol”**.  
+
+   <img width="332" height="262" alt="Captura de pantalla 2025-08-25 072205" src="https://github.com/user-attachments/assets/00682041-193b-4b45-946e-a57c147d36ec" />
+
+---
+
+✅ *VidÁrbol — Un proyecto educativo que busca conectar la tecnología con el amor por la naturaleza.* 🌳
