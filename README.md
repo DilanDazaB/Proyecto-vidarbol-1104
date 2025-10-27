@@ -4,7 +4,7 @@
 <img width="150" height="145" alt="logo" src="https://github.com/user-attachments/assets/8917935b-5145-4c74-b571-7d155fc2dd97" />
 
 ![Versión](https://img.shields.io/badge/versión-1.0-blue)  
-![Estado](https://img.shields.io/badge/estado-en%20Completado-green)  
+![Estado](https://img.shields.io/badge/estado%20Completado-green)  
 
 > Un juego increíble lleno de enseñanzas sobre los árboles y la naturaleza, ideal para estudiantes de grado 6° y 7°, siendo una base importante para su aprendizaje sobre el medio ambiente.  
 
