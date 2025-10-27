@@ -24,9 +24,9 @@ Nuestros propósitos generales son:
 
 📁 **[Ver prototipo en Roblox](https://www.roblox.com/es/games/18729070076/Vid-rbol)**  
 
-<img width="373" height="374" alt="Captura de pantalla 2025-08-25 071701" src="https://github.com/user-attachments/assets/0871e6c3-09e3-4198-8ac2-c2d06e48255c" />
+<img width="200" height="200" alt="Captura de pantalla 2025-08-25 071701" src="https://github.com/user-attachments/assets/0871e6c3-09e3-4198-8ac2-c2d06e48255c" />
 
-### 📸 Capturas
+### 📸 Capturas del videojuego
 
 | Pantalla de Inicio |
 |--------------------|
