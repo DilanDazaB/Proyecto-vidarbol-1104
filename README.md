@@ -1,4 +1,4 @@
-# 🚀 VidÁrbol
+# 🚀 VidÁrbol el videojuego
 
 <img width="147" height="144" alt="image" src="https://github.com/user-attachments/assets/2d4b4687-c15d-4aab-9888-e7ebb3b9fb45" />
 <img width="150" height="145" alt="logo" src="https://github.com/user-attachments/assets/8917935b-5145-4c74-b571-7d155fc2dd97" />
