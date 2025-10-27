@@ -50,7 +50,13 @@ https://github.com/user-attachments/assets/840c5bb2-7447-40c6-bdee-1aebfa85b0b0
 
 
 ## ⚙️ Instalación
-Deberas instalar Roblox  entrando a la página principal de la plataforma
+1. Deberas ingresar a Roblox  entrando a la página principal de la plataforma
+   https://www.roblox.com/es/Login
+2. Deberas crear tu cuenta, donde te saldra este apartado:
+<img width="436" height="489" alt="image" src="https://github.com/user-attachments/assets/f29ddcd3-46c7-4755-b36e-15836edfc76b" />
+3. Al crear tu cuenta, si deseas jugar deberas instalar Roblox.
+4. Para jugar nuestro juego, puedes entrar por medio del QR de arriba o buscando VidÁrbol.
+
 
 <img width="332" height="262" alt="Captura de pantalla 2025-08-25 072205" src="https://github.com/user-attachments/assets/00682041-193b-4b45-946e-a57c147d36ec" />
 
